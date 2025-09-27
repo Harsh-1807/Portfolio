@@ -1,0 +1,265 @@
+{
+  "profileBanner": {
+    "backgroundImage": {
+      "url": "/images/background.jpg"
+    },
+    "headline": "AI & Full Stack Developer",
+    "resumeLink": {
+      "url": "/resume.pdf"
+    },
+    "linkedinLink": "https://linkedin.com/in/harsh-bachhav",
+    "profileSummary": "Passionate AI and Full Stack Developer with experience in AI-driven applications, immersive learning, and full-stack solutions. Skilled in Python, Java, C#, SQL, Flask, FastAPI, and AWS."
+  },
+  "contactMe": {
+    "profilePicture": {
+      "url": "/images/harsh.jpg"
+    },
+    "name": "Harsh Pramod Bachhav",
+    "title": "AI & Full Stack Developer",
+    "summary": "Developer focused on AI, immersive learning, and scalable full-stack applications. Experienced in creating innovative solutions and working with diverse technologies.",
+    "companyUniversity": "Vishwakarma Institute of Technology",
+    "linkedinLink": "https://linkedin.com/in/harsh-bachhav",
+    "email": "harsh.bachhav22@vit.edu",
+    "phoneNumber": "+91 8451805374"
+  },
+  "projects": [
+    {
+      "title": "TE Connect CV Dashboard",
+      "description": "Developed TE Connect CV Dashboard streamlining TE’s recruitment pipeline, including resume parsing, job posting, applicant tracking, and interview automation.",
+      "techUsed": "Python, Streamlit, LLMs, Spire.Doc",
+      "image": {
+        "url": "/images/crm.png"
+      }
+    },
+    {
+      "title": "Chalo On Tour AI Itinerary App",
+      "description": "Built AI Itinerary App reducing itinerary generation time by 90% and API costs by 95%, enabling personalized travel plans.",
+      "techUsed": "Python, Streamlit, LLMs, Spire.Doc",
+      "image": {
+        "url": "/images/letsxchange-.png"
+      }
+    },
+    {
+      "title": "SQL to Neo4j Aura Migration & Graph Explorer",
+      "description": "Migrated PostgreSQL database to Neo4j Aura and built React app enabling natural language to Cypher query conversion and graph visualization.",
+      "techUsed": "PostgreSQL, Neo4j, React, Cypher",
+      "image": {
+        "url": "/images/rdbms.png"
+      }
+    },
+    {
+      "title": "SpheraTech Immersive Learning",
+      "description": "AI-driven immersive learning platform using UE5, MetaHuman, AWS, and Pixel Streaming. Integrated NLP, 3D Gaussian splatting, and text-to-speech.",
+      "techUsed": "UE5, MetaHuman, AWS, NLP, Pixel Streaming",
+      "image": {
+        "url": "/images/sphera.png"
+      }
+    },
+    {
+      "title": "GeoRiskAccess: Risk Factor Prediction",
+      "description": "Built with Flask and Random Forest (89% accuracy) for pollution and health risk analysis. Optimized pipeline reducing computation by 40%.",
+      "techUsed": "Flask, Python, Random Forest",
+      "image": {
+        "url": "/images/geo.png"
+      }
+    },
+    {
+      "title": "AI Personal Hub (MCP)",
+      "description": "Local MCP server integrating Local Files, GitHub, YouTube, Gmail, Steam, and a Summarizer into a unified assistant with LM Studio and Flask UI.",
+      "techUsed": "Python, Flask, LM Studio",
+      "image": {
+        "url": "/images/mcp.png"
+      }
+    }
+  ],
+  "skills": [
+    {
+      "name": "Python",
+      "category": "Programming Languages",
+      "description": "Data analysis, web scraping, AI/ML, and backend development",
+      "icon": "python"
+    },
+    {
+      "name": "Java",
+      "category": "Programming Languages",
+      "description": "Object-oriented programming and algorithm implementation",
+      "icon": "java"
+    },
+    {
+      "name": "C#",
+      "category": "Programming Languages",
+      "description": "Application development and OOP",
+      "icon": "csharp"
+    },
+    {
+      "name": "SQL",
+      "category": "Databases",
+      "description": "Database design, query optimization, and migration to graph DBs",
+      "icon": "sql"
+    },
+    {
+      "name": "Flask",
+      "category": "Backend Frameworks",
+      "description": "Web development and API design",
+      "icon": "flask"
+    },
+    {
+      "name": "FastAPI",
+      "category": "Backend Frameworks",
+      "description": "High-performance API development",
+      "icon": "fastapi"
+    },
+    {
+      "name": "AWS",
+      "category": "Cloud Services",
+      "description": "Cloud infrastructure, deployment, and Pixel Streaming",
+      "icon": "aws"
+    },
+    {
+      "name": "Neo4j",
+      "category": "Databases",
+      "description": "Graph database design and Cypher query language",
+      "icon": "neo4j"
+    },
+    {
+      "name": "React",
+      "category": "Frontend Frameworks",
+      "description": "UI development and interactive web apps",
+      "icon": "react"
+    },
+    {
+      "name": "PyTorch",
+      "category": "AI Frameworks",
+      "description": "Deep learning model development and training",
+      "icon": "pytorch"
+    }
+  ],
+  "certifications": [
+    {
+      "title": "Google – Introduction to Cybersecurity",
+      "issuer": "Google",
+      "issuedDate": "2024",
+      "link": "https://www.credly.com/badges/d93de4e7-3a17-4a5b-9089-a1c4f069d228/linked_in_profile",
+      "iconName": "google"
+    },
+    {
+      "title": "Epic Games — Game Design",
+      "issuer": "Epic Games",
+      "issuedDate": "2024",
+      "link": "https://www.coursera.org/account/accomplishments/specialization/0PGYQBRVRG4L",
+      "iconName": "epicgames"
+    },
+    {
+      "title": "Deep Learning Specialization",
+      "issuer": "Coursera",
+      "issuedDate": "2024",
+      "link": "https://www.coursera.org/account/accomplishments/specialization/N7M67KN8OE65",
+      "iconName": "deeplearning"
+    },
+    {
+      "title": "NVIDIA — Fundamentals of Deep Learning",
+      "issuer": "NVIDIA",
+      "issuedDate": "2024",
+      "link": "https://learn.nvidia.com/certificates?id=2N1RyYoTRTOKHHR3oEqdGg",
+      "iconName": "nvidia"
+    }
+  ],
+  "timeline": [
+    {
+      "name": "TE AI Cup Finalist — TE Connectivity",
+      "timelineType": "work",
+      "title": "TE AI Cup Finalist",
+      "techStack": "Python, Streamlit, LLMs, Spire.Doc",
+      "summaryPoints": [
+        "Developed TE Connect CV Dashboard streamlining TE’s recruitment pipeline",
+        "Enabled resume parsing, job posting, applicant tracking, and interview automation"
+      ],
+      "dateRange": "Nov 2024 – Feb 2025"
+    },
+    {
+      "name": "Chalo On Tour Travel Agency",
+      "timelineType": "work",
+      "title": "AI Itinerary App Developer",
+      "techStack": "Python, Streamlit, LLMs, Spire.Doc",
+      "summaryPoints": [
+        "Developed AI Itinerary App reducing generation time by 90%",
+        "Reduced API costs by 95%"
+      ],
+      "dateRange": "Mar 2024 – Jun 2024"
+    },
+    {
+      "name": "E-Zest Solutions Ltd.",
+      "timelineType": "work",
+      "title": "SQL to Neo4j Aura Migration & Graph Explorer",
+      "techStack": "PostgreSQL, Neo4j, React, Cypher",
+      "summaryPoints": [
+        "Migrated PostgreSQL database to Neo4j Aura preserving relationships",
+        "Built React app for natural language to Cypher query conversion and graph visualization"
+      ],
+      "dateRange": "Jan 2025 – May 2025"
+    },
+    {
+      "name": "Vishwakarma Institute of Technology",
+      "timelineType": "education",
+      "title": "BTech — Computer Science & Engineering (AI)",
+      "techStack": "Python, Java, C#, SQL",
+      "summaryPoints": [
+        "CGPA: 8.9/10.00"
+      ],
+      "dateRange": "2026"
+    }
+  ],
+  "workPermit": {
+    "visaStatus": "Not Applicable",
+    "expiryDate": "",
+    "summary": "Authorized to work in India.",
+    "additionalInfo": "Open to remote opportunities and collaboration."
+  },
+  "videoGames": [
+    {
+      "title": "Red Dead Redemption 2",
+      "developer": "Rockstar Games",
+      "genre": "Action-Adventure",
+      "releaseYear": "2018",
+      "description": "An epic tale of life in America's unforgiving heartland. The end of the wild west era has begun.",
+      "platform": "PC, PlayStation, Xbox",
+      "rating": "9.5/10"
+    },
+    {
+      "title": "The Witcher 3: Wild Hunt",
+      "developer": "CD Projekt RED",
+      "genre": "Action RPG",
+      "releaseYear": "2015",
+      "description": "A story-driven open world RPG set in a fantasy universe full of meaningful choices and impactful consequences.",
+      "platform": "PC, PlayStation, Xbox, Switch",
+      "rating": "10/10"
+    },
+    {
+      "title": "Counter-Strike 2",
+      "developer": "Valve",
+      "genre": "First-Person Shooter",
+      "releaseYear": "2023",
+      "description": "The world's premier competitive FPS game featuring refined gameplay, stunning graphics, and responsive servers.",
+      "platform": "PC",
+      "rating": "9.0/10"
+    },
+    {
+      "title": "The Elder Scrolls V: Skyrim",
+      "developer": "Bethesda Game Studios",
+      "genre": "Action RPG",
+      "releaseYear": "2011",
+      "description": "An epic fantasy adventure where you must defeat Alduin the World-Eater, a dragon prophesied to destroy the world.",
+      "platform": "PC, PlayStation, Xbox, Switch",
+      "rating": "9.5/10"
+    },
+    {
+      "title": "Far Cry 5",
+      "developer": "Ubisoft",
+      "genre": "First-Person Shooter",
+      "releaseYear": "2018",
+      "description": "Welcome to Hope County, Montana, land of the free and the brave, but also home to a fanatical doomsday cult.",
+      "platform": "PC, PlayStation, Xbox",
+      "rating": "8.5/10"
+    }
+  ]
+}

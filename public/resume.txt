@@ -1,0 +1,58 @@
+Harsh Pramod Bachhav
+* Pune, Maharashtra, India # harsh.bachhav22@vit.edu , Mobile Number : +91 8451805374
+
+
+Education
+BTech — Computer Science & Engineering (AI) 2026
+Vishwakarma Institute of Technology, Pune, Maharashtra
+• CGPA: 8.9/10.00
+Experience
+TE AI Cup Finalist — TE Connectivity  Nov 2024 – Feb 2025
+National Hackathon – Pune
+• Developed TE Connect CV Dashboard streamlining TE’s recruitment pipeline.
+• Enabled resume parsing, job posting, applicant tracking, and interview automation.
+Chalo On Tour Travel Agency  Mar 2024 – Jun 2024
+Remote – Pune (Freelancer)
+• Developed AI Itinerary App using Streamlit, Python, LLMs, and Spire.Doc.
+• Reduced itinerary generation time by 90% and API costs by 95%.
+E-Zest Solutions Ltd. § Jan 2025 – May 2025
+Pune (Industrial Project)
+
+SQL to Neo4j Aura Migration & Graph Explorer
+Migrated PostgreSQL (Northwind DB) to Neo4j Aura, preserving relationships.
+
+• React app enabling natural language to Cypher query conversion and graph visualization.
+Projects
+SpheraTech Immersive Learning §
+
+• AI-driven immersive learning platform using UE5, MetaHuman, AWS, Pixel Streaming.
+• Integrated NLP, 3D Gaussian splatting, and text-to-speech.
+GeoRiskAccess: Risk Factor Prediction §
+
+• Built with Flask and Random Forest (89% accuracy) for pollution and health risk analysis.
+• Optimized pipeline reducing computation by 40%.
+AI Personal Hub (MCP) — Unified Personal Assistant §
+
+• Built a local MCP server integrating Local Files, GitHub, YouTube, Gmail, Steam, and a Summarizer into a
+unified assistant with LM Studio and a clean Flask UI.
+
+Publications
+GeoRiskAccess: GIS-based PM2.5 Pollution and Risk Factor Analysis ICAECT 2024
+Taylor & Francis Group
+[ DOI: 10.1201/9781003515470-42
+Skills
+Languages: Python, Java, C#, C, SQL
+Frameworks & Tools: Flask, FastAPI, Node, MongoDB, MySQL, Redis, TensorFlow, PyTorch, OpenCV, ONNX,
+Docker, AWS, Git, UE5
+Achievements & Certifications
+Achievements:
+• Winner: TechFesta Hackathon (GDSC VIT)
+• Winner: Internal SIH 2024–25 at VIT
+• Presented at ICAECT 2024 , ICT4SD 2025 .
+• “Best Project of the Year” – GeoRiskAccess
+Certifications:
+
+•  Google – Introduction to Cybersecurity (2024)
+•  Epic Games — Game Design (2024)
+•  Deep Learning Specialization (2024)
+•  NVIDIA — Fundamentals of Deep Learning (2024)

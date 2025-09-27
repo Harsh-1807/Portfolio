@@ -1,0 +1,50 @@
+.resume-container {
+  max-width: 980px;
+  margin: 0 auto;
+  padding: 32px 20px 64px;
+}
+
+.resume-title {
+  margin: 0 0 16px;
+  font-size: 28px;
+  font-weight: 700;
+}
+
+.resume-error {
+  color: #e87c03;
+  background: rgba(232, 124, 3, 0.08);
+  border: 1px solid rgba(232, 124, 3, 0.35);
+  padding: 12px 14px;
+  border-radius: 8px;
+}
+
+.resume-card {
+  background: linear-gradient(180deg, rgba(20,20,20,0.9) 0%, rgba(10,10,10,0.9) 100%);
+  border: 1px solid rgba(255,255,255,0.08);
+  border-radius: 12px;
+  box-shadow: 0 12px 28px rgba(0,0,0,0.35);
+  padding: 18px;
+}
+
+.resume-pre {
+  margin: 0;
+  white-space: pre-wrap;
+  word-wrap: break-word;
+  font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+  font-size: 14.5px;
+  line-height: 1.6;
+  color: #e5e5e5;
+}
+
+@media (max-width: 768px) {
+  .resume-container {
+    padding: 20px 14px 48px;
+  }
+  .resume-title {
+    font-size: 22px;
+  }
+  .resume-card {
+    padding: 14px;
+  }
+}
+

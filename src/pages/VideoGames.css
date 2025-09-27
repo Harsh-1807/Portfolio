@@ -1,0 +1,169 @@
+/* VideoGames.css */
+
+.video-games-container {
+  padding: 5rem 2rem;
+  color: #333;
+  text-align: center;
+}
+
+.video-games-title {
+  font-size: 2.5rem;
+  color: #00d4ff;
+  font-weight: bold;
+  margin-bottom: 0.5rem;
+  animation: slideDown 0.8s ease-in-out;
+}
+
+.video-games-intro {
+  font-size: 1.1rem;
+  color: white;
+  margin-bottom: 2rem;
+}
+
+.games-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 1.5rem;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.game-card {
+  background: #fff;
+  border-radius: 15px;
+  overflow: hidden;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+  transition: all 0.3s ease;
+  animation: fadeInUp 0.5s ease forwards;
+  opacity: 0;
+  cursor: pointer;
+  position: relative;
+}
+
+.game-card:hover {
+  transform: translateY(-10px) scale(1.02);
+  box-shadow: 0 8px 25px rgba(0, 212, 255, 0.3);
+}
+
+.game-cover {
+  width: 100%;
+  height: 250px;
+  object-fit: cover;
+  transition: transform 0.3s ease;
+}
+
+.game-card:hover .game-cover {
+  transform: scale(1.05);
+}
+
+.game-info {
+  padding: 1.5rem;
+  text-align: left;
+}
+
+.game-title {
+  font-size: 1.3rem;
+  color: #333;
+  margin: 0.5rem 0 0.3rem 0;
+  font-weight: bold;
+}
+
+.game-developer {
+  font-size: 1rem;
+  color: #666;
+  margin-bottom: 0.8rem;
+  font-style: italic;
+}
+
+.game-meta {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin-bottom: 0.8rem;
+}
+
+.game-genre {
+  background: #00d4ff;
+  color: white;
+  padding: 0.3rem 0.8rem;
+  border-radius: 20px;
+  font-size: 0.8rem;
+  font-weight: bold;
+}
+
+.game-year {
+  background: #333;
+  color: white;
+  padding: 0.3rem 0.8rem;
+  border-radius: 20px;
+  font-size: 0.8rem;
+}
+
+.game-rating {
+  background: #ffd700;
+  color: #333;
+  padding: 0.3rem 0.8rem;
+  border-radius: 20px;
+  font-size: 0.8rem;
+  font-weight: bold;
+}
+
+.game-platform {
+  font-size: 0.9rem;
+  color: #888;
+  margin-bottom: 1rem;
+  font-style: italic;
+}
+
+.game-description {
+  font-size: 0.9rem;
+  color: #555;
+  line-height: 1.5;
+  transition: color 0.3s ease;
+}
+
+.game-card:hover .game-description {
+  color: #00d4ff;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+  .video-games-title {
+    font-size: 2rem;
+  }
+  
+  .games-grid {
+    grid-template-columns: 1fr;
+    gap: 1rem;
+  }
+  
+  .game-card {
+    margin: 0 1rem;
+  }
+  
+  .game-meta {
+    justify-content: center;
+  }
+}
+
+@keyframes fadeInUp {
+  0% {
+    opacity: 0;
+    transform: translateY(30px);
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes slideDown {
+  0% {
+    opacity: 0;
+    transform: translateY(-20px);
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
